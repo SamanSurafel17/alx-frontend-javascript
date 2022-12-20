@@ -5,5 +5,8 @@
     "babel-jest": "^29.3.1",
     "eslint": "^8.30.0",
     "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "package.json": "^0.0.0"
   }
 }
